@@ -276,7 +276,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &22111279
 RectTransform:
   m_ObjectHideFlags: 0
@@ -738,7 +738,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'LOCAL:
 
-    Oficina Beluhga, Distrito da Bigorna
+    O Barril Furado
 
 '
   m_isRightToLeft: 0
@@ -1650,8 +1650,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DESCRI\xC7\xC3O:\nEmprestei dinheiro para um amigo e ele n\xE3o quer pagar,
-    Preciso de ajuda para reaver minhas posses"
+  m_text: "DESCRI\xC7\xC3O:\nUm Unic\xF3rnio que vem andando pelas matas de Nova
+    Malpetrim, e eu quero t\xEA-lo para mim."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -1855,7 +1855,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -179, y: 56.414272}
-  m_SizeDelta: {x: 286.4483, y: 53.4599}
+  m_SizeDelta: {x: 414.89, y: 53.46}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &546682117
 MonoBehaviour:
@@ -1879,7 +1879,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'SOLICITANTE:
 
-    Penellope Pendragon
+    Companhia de Lamnor Oriental
 
 '
   m_isRightToLeft: 0
@@ -2727,11 +2727,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'LOCAL:
-
-    Oficina Beluhga, Distrito da Bigorna
-
-'
+  m_text: "LOCAL:\nMans\xE3o dos Dornavich, O Arpoador"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -3553,7 +3549,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &796426081
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3797,7 +3793,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'RECOmpensa: T$200'
+  m_text: 'RECOmpensa: T$600'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -4098,7 +4094,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &845780555
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4178,8 +4174,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DESCRI\xC7\xC3O:\nEmprestei dinheiro para um amigo e ele n\xE3o quer pagar,
-    Preciso de ajuda para reaver minhas posses"
+  m_text: "DESCRI\xC7\xC3O:\nCaravanas e comerciantes est\xE3o sendo atacados por
+    um drag\xE3o que fez seu ninho proximo a cidade."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -4691,7 +4687,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &970776231
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5059,7 +5055,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Miss\xE3o 1\n"
+  m_text: "Capturar um Unic\xF3rnio"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -5787,7 +5783,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'RECOmpensa: T$200'
+  m_text: 'RECOmpensa: T$400'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -6193,7 +6189,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Miss\xE3o 1\n"
+  m_text: "Matar um Drag\xE3o Jovem"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -7494,7 +7490,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'RECOmpensa: T$200'
+  m_text: 'RECOmpensa: A Combinar'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -7628,8 +7624,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "DESCRI\xC7\xC3O:\nEmprestei dinheiro para um amigo e ele n\xE3o quer pagar,
-    Preciso de ajuda para reaver minhas posses"
+  m_text: "DESCRI\xC7\xC3O:\n\xC9 o que diz no t\xEDtulo."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -7895,7 +7890,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Miss\xE3o 1\n"
+  m_text: Monstro do Mar Atacando Navios
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
@@ -8138,7 +8133,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1814635702
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8655,7 +8650,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2015388055
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8763,9 +8758,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'LOCAL:
 
-    Oficina Beluhga, Distrito da Bigorna
-
-'
+    Guilda dos Comerciantes'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
   m_sharedMaterial: {fileID: 8262678547571231511, guid: 4a953da2f9ea6c0449a98414fb1c45e3, type: 2}
